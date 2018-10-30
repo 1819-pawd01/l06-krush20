@@ -1,0 +1,28 @@
+/*
+* Katherine Rush
+* October 30, 2018
+* Lab 06
+*/
+
+/* The universal seltor *?
+
+*{
+
+
+}
+
+/* Body attributes here */
+
+body {
+
+    background-color: lavender;
+    color: darkcyan;
+    font-size: 18px;
+    font-family: georgia;
+    margin: 20px;
+}
+
+tbody {
+    color: hotpink
+    
+}
