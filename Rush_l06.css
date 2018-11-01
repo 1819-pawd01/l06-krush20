@@ -14,15 +14,45 @@
 /* Body attributes here */
 
 body {
-
-    background-color: lavender;
-    color: darkcyan;
     font-size: 18px;
     font-family: georgia;
     margin: 20px;
 }
 
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+    background-color: blanchedalmond;  
+}
+
+th {
+    color: deeppink;
+    text-align: center;
+    vertical-align: middle;
+}
+
+tr:hover {
+    background-color: black;
+}
+
+tfoot {
+    background-color: lightblue;
+}
+
+thead {
+    background-color: lavender;
+}
+
 tbody {
-    color: hotpink
-    
+    color: darkcyan;
 }
